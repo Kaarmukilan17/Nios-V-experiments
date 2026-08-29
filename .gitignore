@@ -1,0 +1,51 @@
+# ==============================
+# ZIP archives
+# ==============================
+*.zip
+
+# ==============================
+# Quartus build/cache
+# ==============================
+**/db/
+**/incremental_db/
+**/output_files/
+
+# Quartus workspace
+**/*.qws
+
+# ==============================
+# Platform Designer temporary
+# ==============================
+**/.qsys_edit/
+**/unsaved/
+
+# ==============================
+# Nios-V / Eclipse workspace
+# ==============================
+**/.metadata/
+
+
+# Nios-V application build output
+**/software/app/build/
+
+# ==============================
+# Logs / temporary files
+# ==============================
+*.log
+*.rpt
+*.summary
+*.bak
+
+# ==============================
+# ModelSim generated
+# ==============================
+transcript
+**/*.wlf
+**/work/
+**/modelsim.ini
+
+# ==============================
+# Windows
+# ==============================
+Thumbs.db
+.DS_Store
