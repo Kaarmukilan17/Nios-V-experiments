@@ -4,7 +4,7 @@
  * Machine generated for CPU 'intel_niosv_m_0' in SOPC Builder design 'pushbutton'
  * SOPC Builder design path: ../../pushbutton.sopcinfo
  *
- * Generated: Fri Aug 28 17:20:16 IST 2026
+ * Generated: Mon Aug 31 15:05:16 IST 2026
  */
 
 /*
@@ -165,7 +165,7 @@
 #define BUTTON_PIO_BIT_CLEARING_EDGE_REGISTER 0
 #define BUTTON_PIO_BIT_MODIFYING_OUTPUT_REGISTER 0
 #define BUTTON_PIO_CAPTURE 0
-#define BUTTON_PIO_DATA_WIDTH 4
+#define BUTTON_PIO_DATA_WIDTH 3
 #define BUTTON_PIO_DO_TEST_BENCH_WIRING 0
 #define BUTTON_PIO_DRIVEN_SIM_VALUE 0
 #define BUTTON_PIO_EDGE_TYPE "NONE"
@@ -230,7 +230,7 @@
 #define LED_BIT_CLEARING_EDGE_REGISTER 0
 #define LED_BIT_MODIFYING_OUTPUT_REGISTER 0
 #define LED_CAPTURE 0
-#define LED_DATA_WIDTH 4
+#define LED_DATA_WIDTH 3
 #define LED_DO_TEST_BENCH_WIRING 0
 #define LED_DRIVEN_SIM_VALUE 0
 #define LED_EDGE_TYPE "NONE"

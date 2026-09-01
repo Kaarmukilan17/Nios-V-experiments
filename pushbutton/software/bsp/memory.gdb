@@ -3,7 +3,7 @@
 # Machine generated for CPU 'intel_niosv_m_0' in SOPC Builder design 'pushbutton'
 # SOPC Builder design path: ../../pushbutton.sopcinfo
 #
-# Generated: Fri Aug 28 17:20:16 IST 2026
+# Generated: Mon Aug 31 15:05:16 IST 2026
 
 # DO NOT MODIFY THIS FILE
 #

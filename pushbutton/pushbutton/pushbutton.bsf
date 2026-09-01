@@ -27,8 +27,8 @@ https://fpgasoftware.intel.com/eula.
 	(port
 		(pt 0 72)
 		(input)
-		(text "button_pio_external_connection_export[3..0]" (rect 0 0 174 12)(font "Arial" (font_size 8)))
-		(text "button_pio_external_connection_export[3..0]" (rect 4 61 262 72)(font "Arial" (font_size 8)))
+		(text "button_pio_external_connection_export[2..0]" (rect 0 0 174 12)(font "Arial" (font_size 8)))
+		(text "button_pio_external_connection_export[2..0]" (rect 4 61 262 72)(font "Arial" (font_size 8)))
 		(line (pt 0 72)(pt 240 72)(line_width 3))
 	)
 	(port
@@ -48,8 +48,8 @@ https://fpgasoftware.intel.com/eula.
 	(port
 		(pt 0 152)
 		(output)
-		(text "led_external_connection_export[3..0]" (rect 0 0 145 12)(font "Arial" (font_size 8)))
-		(text "led_external_connection_export[3..0]" (rect 4 141 220 152)(font "Arial" (font_size 8)))
+		(text "led_external_connection_export[2..0]" (rect 0 0 145 12)(font "Arial" (font_size 8)))
+		(text "led_external_connection_export[2..0]" (rect 4 141 220 152)(font "Arial" (font_size 8)))
 		(line (pt 0 152)(pt 240 152)(line_width 3))
 	)
 	(drawing

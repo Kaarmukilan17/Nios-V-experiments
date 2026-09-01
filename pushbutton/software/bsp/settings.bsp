@@ -2,12 +2,12 @@
 <sch:Settings xmlns:sch="http://www.altera.com/embeddedsw/bsp/schema">
         <BspType>hal2</BspType>
         <BspVersion>default</BspVersion>
-        <BspGeneratedTimeStamp>28 Aug, 2026 5:20:16 PM</BspGeneratedTimeStamp>
-        <BspGeneratedUnixTimeStamp>1787917816104</BspGeneratedUnixTimeStamp>
+        <BspGeneratedTimeStamp>31 Aug, 2026 3:05:16 PM</BspGeneratedTimeStamp>
+        <BspGeneratedUnixTimeStamp>1788168916051</BspGeneratedUnixTimeStamp>
         <BspGeneratedLocation>D:\23BEC0137\pushbutton\software\bsp</BspGeneratedLocation>
         <BspSettingsFile>software\bsp\settings.bsp</BspSettingsFile>
         <SopcDesignFile>..\..\pushbutton.sopcinfo</SopcDesignFile>
-        <SystemFileHash>4265a73d56e80253d3de3ee403f5cc212b66929c49883c9e0ece527b51d4ab1</SystemFileHash>
+        <SystemFileHash>abd6574ec1eecf7511fb4488a54f6fa5f26a62635a9bbf773da6fac2fb547e</SystemFileHash>
         <JdiFile>default</JdiFile>
         <Cpu>intel_niosv_m_0</Cpu>
         <SchemaVersion>1.9</SchemaVersion>

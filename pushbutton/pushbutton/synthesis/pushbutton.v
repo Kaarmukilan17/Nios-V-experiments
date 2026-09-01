@@ -4,9 +4,9 @@
 
 `timescale 1 ps / 1 ps
 module pushbutton (
-		input  wire [3:0] button_pio_external_connection_export, // button_pio_external_connection.export
+		input  wire [2:0] button_pio_external_connection_export, // button_pio_external_connection.export
 		input  wire       clk_clk,                               //                            clk.clk
-		output wire [3:0] led_external_connection_export,        //        led_external_connection.export
+		output wire [2:0] led_external_connection_export,        //        led_external_connection.export
 		input  wire       reset_reset_n                          //                          reset.reset_n
 	);
 
